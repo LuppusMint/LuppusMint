@@ -14,11 +14,11 @@ I enjoy working with **Python, R, and SQL** to clean, transform, explore, and vi
 
 **My passions include:**
 
-- 📊 Data analysis and analytics engineering  
-- 📈 Time series analysis  
-- 🌍 Environmental and meteorological data  
-- 🎨 Data visualization  
-- 🔁 Reproducible research workflows  
+- Data analysis and analytics engineering  
+- Time series analysis  
+- Environmental and meteorological data  
+- Data visualization  
+- Reproducible research workflows  
 
 ---
 
