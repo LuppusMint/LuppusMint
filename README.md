@@ -82,7 +82,7 @@ Combines EDA, network analysis, time series modeling, and an interactive Streaml
 ## Let's Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/manuelguerrero](https://www.linkedin.com/in/manuel-guerrero-data/" target="_blank">
+  <a href="https://www.linkedin.com/in/manuel-guerrero-data" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:guerrero.manuel.dev@gmail.com">
